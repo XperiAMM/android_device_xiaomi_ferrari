@@ -163,9 +163,6 @@ TARGET_PROVIDES_LIBLIGHT := true
 # Keymaster
 TARGET_PROVIDES_KEYMASTER := true
 
-# Malloc
-MALLOC_IMPL := dlmalloc
-
 # Partition
 TARGET_USERIMAGES_USE_EXT4          := true
 TARGET_USERIMAGES_USE_F2FS          := true
